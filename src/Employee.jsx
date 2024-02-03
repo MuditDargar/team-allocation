@@ -1,5 +1,5 @@
 import React from "react";
-import Teams from "./Teams";
+
 import Female from "./images/Female.jpg";
 import Male from "./images/Male.jpg";
 
